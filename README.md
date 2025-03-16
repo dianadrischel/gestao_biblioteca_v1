@@ -24,11 +24,11 @@ Este projeto implementa um sistema de gerenciamento de biblioteca comunitária c
 ## 🛠 Arquivos Utilizados
 
 - **usuarios.csv**: Armazena os dados de usuários cadastrados, como nome, e-mail e senha (hash).
-- 
+
 - **livros.csv**: Armazena os dados dos livros cadastrados, incluindo ID, nome, autor, ano de publicação e status (disponível/emprestado).
 
 ## 📌 Requisitos
 
 - Python 3.x
-- 
+
 - Bibliotecas padrão: `csv`, `os`, `time`, `datetime`, `hashlib`
