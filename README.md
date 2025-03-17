@@ -1,4 +1,4 @@
-## Sistema de Gestão de Bibliotecas ##
+## 📚 Sistema de Gestão de Bibliotecas ##
 
 Este projeto implementa um sistema de gerenciamento de biblioteca comunitária com funcionalidades de cadastro de usuários, login, cadastro e empréstimo de livros. O sistema armazena as informações de usuários e livros em arquivos CSV e oferece uma interface interativa no terminal para facilitar o gerenciamento dos dados.
 
